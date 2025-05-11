@@ -13,10 +13,12 @@ const About: React.FC<{}> = () => {
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center ">
-          As a passionate software engineer, I thrive on the intricate dance
-          between logic and creativity. Currently immersed in the dynamic world
-          of WebHR, my expertise centers around React Native, where I seamlessly
-          blend technology with innovation.
+          I am a dedicated and enthusiastic web developer, currently completing
+          the Web Application Development course under the prestigious
+          IsDB-BISEW IT Scholarship Programme. This intensive training has
+          equipped me with professional-level skills in Laravel (PHP Framework),
+          React.js, Vue.js, and WordPress, enabling me to build robust, dynamic,
+          and scalable web applications.
           <br />
           <br />
           With a fervor for crafting elegant solutions, I navigate the

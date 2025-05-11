@@ -9,31 +9,31 @@ import Navbar from "@/components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ibiimemon.com/"),
-  title: "Ibrahim Memon - SWE | IXD | UX - Developer Portfolio",
+  metadataBase: new URL("https://sabbirbd.intelsofts.com/"),
+  title: "Sabbirbd - Developer Portfolio",
   description:
     "Developer Portfolio of Frontend & Mobile App Developer from Pakistan with 3+ years of expertise. Senior Software Engineer. Specializing mobile apps, UX, and JavaScript technologies.",
   keywords: [
     "Developer",
     "Portfolio",
     "Developer Portflio",
-    "Ibrahim Memon",
-    "Ibrahim",
-    "IbiiMemon",
-    "IbrahimMemon",
-    "Ibrahim_Memon",
-    "Next.js",
-    "ReactNative",
-    "Android",
+    "Sabbir Ahmed",
+    "Sabbir",
+    "SabbirAhmed",
+    "Sabbir_Ahmed",
+    "sabbir ahmed",
+    "PHP",
+    "Laravel",
+    "Vue.js",
   ],
   openGraph: {
-    title: "Ibrahim Memon - SWE | IXD | UX",
+    title: "Sabbirbd",
     description:
-      "Frontend & Mobile App Developer from Pakistan with 3+ years of expertise. Senior Software Engineer. Specializing mobile apps, UX, and JavaScript technologies.",
+      "Frontend & Backend Developer from Bangladesh with 1+ years of expertise.",
     images: "/OpenGraph.jpg",
   },
   alternates: {
-    canonical: "https://ibiimemon.com/",
+    canonical: "https://sabbirbd.com/",
   },
 };
 export default function RootLayout({
@@ -50,12 +50,12 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "http://schema.org",
               "@type": "Person",
-              name: "Ibrahim Memon",
-              jobTitle: "Software Engineer",
-              url: "https://ibiimemon.com",
+              name: "Sabbir_Ahmed",
+              jobTitle: "Web Developer",
+              url: "http://sabbirbd.intelsofts.com/",
               sameAs: [
-                "https://www.linkedin.com/in/ibrahimmemonn/",
-                "https://github.com/ibrahimmemonn",
+                "https://www.linkedin.com/in/sabbirbd912/",
+                "https://github.com/Sabbirbd912",
               ],
             }),
           }}

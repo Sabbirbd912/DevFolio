@@ -13,7 +13,7 @@ const Banner: React.FC<{}> = () => {
             src="/Me.png"
             height={250}
             width={250}
-            alt="Ibrahim Memon"
+            alt="Sabbir Ahmed"
           />
         </div>
 
@@ -31,7 +31,7 @@ const Banner: React.FC<{}> = () => {
             src="/popcorn.gif"
             height={50}
             width={50}
-            alt="Ibrahim Memon"
+            alt="Sabbir Ahmed"
           />
         </div>
 
@@ -41,7 +41,7 @@ const Banner: React.FC<{}> = () => {
         </p>
         <div className="text-md flex justify-center">
           <button
-            onClick={() => window.open("mailto:ibrahimmemon930@gmail.com")}
+            onClick={() => window.open("mailto:sabbirbd912@gmail.com")}
             className=" z-[1]     padding-20  hover:bg-white rounded-3xl  text-white font-semibold hover:text-black py-3 px-10  border-[0.1px] border-white hover:border-transparent "
           >
             Contact Me

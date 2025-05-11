@@ -17,46 +17,32 @@ const Experience: React.FC<{}> = () => {
               src={"/WebHR.svg"}
               height={30}
               width={30}
-              alt={"Ibrahim Memon - UX Experience"}
+              alt={"Sabbir Ahmed - UX Experience"}
             />
             <p className="text-gray-300 ">
-              <span className="font-semibold">WebHR /</span> Software Engineer
+              <span className="font-semibold">Web /</span> Developer
             </p>
           </div>
           <p className="text-gray-300 md:pt-0 pt-3">
-            May 2022 - Present, United States
+            May 2024 - Present, Intellect Software Limited
           </p>
         </div>
 
         <p className="text-gray-300 pt-5">
-          Currently, I am working on WebHR Mobile Application, WebHR is a Cloud
-          based Social HR Software for SMEs by Verge Systems Inc. WebHR is
-          currently used in over 160 countries world wide by thousands of
-          organizations to manage HR, As a React.js developer with 2.5 year of
-          experience, I have a strong foundation in creating dynamic and
-          responsive mobile and web applications.
-          <br />
-          <br />
-          My experience with React Native has allowed me to develop
-          cross-platform mobile applications that run seamlessly on both iOS and
-          Android platforms. Additionally, my proficiency in React.js has
-          equipped me with the skills to create fast, scalable, and dynamic web
-          pages with excellent user experiences. I have a deep understanding of
-          component-based architecture and state management, and I am
-          well-versed in the latest web development trends and technologies.
+          As a Junior Web Developer at Intellect Software Limited, I worked on several client-focused web projects using modern technologies such as Laravel, Vue.js, and MySQL. My responsibilities included developing and maintaining features in existing applications, writing clean and maintainable code, integrating APIs, and collaborating with senior developers to meet project goals. <br /> <br /> This experience significantly improved my problem-solving skills, coding standards, and understanding of full-stack development. It also reinforced my ability to work in a team-based, agile environment and prepared me for larger-scale development challenges.
         </p>
         <div className="flex-col flex sm:flex-row ">
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            React Native
-          </div>
-          <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            React
-          </div>
-          <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             JavaScript
           </div>
+          <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            PHP
+          </div>
+          <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            Laravel
+          </div>
           <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            Typescript
+            Vue js
           </div>
         </div>
       </div>

@@ -43,7 +43,7 @@ const Footer: React.FC<{}> = () => {
         })}
       </div>
       <p className="text-gray-300 text-center text-sm">
-        Created with ❤️ using Next.js
+        sabbirbd ❤️ 2025
       </p>
     </div>
   );
